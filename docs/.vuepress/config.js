@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/crxpress/dist/',
+    base: '/crxpress/',
     dest: 'dist',
     title: 'Chrome Extend',
     description: '可定制浏览体验的小型扩展程序',
