@@ -1,7 +1,7 @@
 {
 	"name": "crxpress",
 	"version": "1.0.0",
-	"description": "",
+	"description": "Google Extensions 中文文档",
 	"main": "index.js",
 	"scripts": {
 		"dev": "vuepress dev docs",
