@@ -1,0 +1,22 @@
+{
+	"name": "crxpress",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "vuepress dev docs",
+		"build": "vuepress build docs"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@vuepress/plugin-back-to-top": "^1.5.0",
+		"@vuepress/plugin-medium-zoom": "^1.5.0",
+		"vuepress": "^1.5.0"
+	},
+	"resolutions": {
+		"watchpack": "1.6.1"
+	},
+	"dependencies": {}
+}
