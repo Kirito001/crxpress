@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/crxpress/',
+    base: '/crxpress/dist/',
     dest: 'dist',
     title: 'Chrome Extend',
     description: '可定制浏览体验的小型扩展程序',
@@ -10,7 +10,7 @@ module.exports = {
         lineNumbers: true
     },
     themeConfig: {
-        logo: '/google.png',
+        logo: './google.png',
         displayAllHeaders: true,
         smoothScroll: true,
         nav: [
