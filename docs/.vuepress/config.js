@@ -10,7 +10,7 @@ module.exports = {
         lineNumbers: true
     },
     themeConfig: {
-        logo: './google.png',
+        logo: '/google.png',
         displayAllHeaders: true,
         smoothScroll: true,
         nav: [
